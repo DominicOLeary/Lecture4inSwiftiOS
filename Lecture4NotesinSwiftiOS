@@ -1,0 +1,23 @@
+
+import UIKit
+
+let greet = "Hello, playground"
+
+var greeting = "Hello, playground"
+var greeting = greet
+
+let firstName = "Dominic"
+let shoeSize = 12
+greeting = "Hello, \(firstName)" my shoesize is \(shoesize)"
+
+var someFamousSpeech = """
+    Greetings "people"
+    Isn't my administration great?
+    """
+print (someFamousSpeech)
+
+greeting = greet + "\n" + "Iam \(firstName)"
+
+print(greeting)
+var someString: String = " "
+print (someString. is Empty)
